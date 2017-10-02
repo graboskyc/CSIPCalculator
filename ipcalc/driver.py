@@ -16,6 +16,7 @@ class IpcalcDriver (ResourceDriverInterface):
     NetSizes["29"] = 6 + 2
     NetSizes["30"] = 2 + 2
     NetSizes["31"] = 2
+    NetSizes["32"] = 1
 
     def cleanup(self):
         """
