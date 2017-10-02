@@ -17,6 +17,7 @@ For it to manage things like Management IPs where you want to request a single I
 
 ## Screenshots
 ![](/Screenshots/SS01.jpg)
+![](/Screenshots/SS02.jpg)
 
 ## Notice
 This is a preliminary work in progress. It does not currently enforce basic subnetting principals (like given a /24, requesting a /30, then requesting a /25 will not have your offsets correct). Right now it is really meant to give out /30s given a /24 to start with, or management IPs.
